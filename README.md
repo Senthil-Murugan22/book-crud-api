@@ -1,7 +1,7 @@
 # BOOKS-CRUD-API
 This project is a beginner-friendly backend application built with Express.js that implements CRUD operations for managing books using an in-memory data structure.
 
-# 📚 Book CRUD API
+# 📚 Books CRUD API
 
 A beginner-friendly backend project built using Express.js that performs CRUD (Create, Read, Update, Delete) operations on book data.
 
@@ -27,7 +27,7 @@ A beginner-friendly backend project built using Express.js that performs CRUD (C
 
 ```
 book-crud-api/
- ├── book.js
+ ├── books.js
 ```
 
 ---
